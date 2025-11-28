@@ -1,0 +1,57 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# Django stuff
+*.log
+db.sqlite3
+db.sqlite3-journal
+local_settings.py
+/static/
+media/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+.ropeproject
+
+# macOS system files
+.DS_Store
+
+# Python packaging
+*.egg-info/
+*.egg
+dist/
+build/
+
+marimo/_static/
+marimo/_lsp/
+__marimo__/
+>>>>>>> b18492589cab5dad7904e87543552a088d50159a
+.DS_Store
